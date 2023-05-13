@@ -15,8 +15,49 @@ Neste estudo irei explorar os dados do período de 2005 a 2019 obtidos através 
 
 # 1.1 Objetivos
 
-O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados do PROUNI no período de 2005-2019, adaptado pelo autor e disponível em https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019; a fim de caracterizar o perfil dos estudantes. Especificiamente serão respondidas as seguintes questões de pesquisa:
+O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados do PROUNI no período de 2005-2019, adaptado pelo autor e disponível em https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019; a fim de caracterizar o perfil dos estudantes e quais os cursos mais escolhidos. Especificiamente serão respondidas as seguintes questões de pesquisa:
 
 1. Quantos estudantes foram beneficiados com o programa durante este período?
 2. Qual q região com mais estudantes com a bolsa?
-3. 
+3. Qual o curso mais escolhidos com bolsa total? e parcial?
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
+
+
+# 2. Metodologia
+
+Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
+
+
+
+| Coluna                         | Descrição                                                           | Tipo                      |
+|--------------------------------|---------------------------------------------------------------------|---------------------------|
+| ANO_CONCESSAO_BOLSA            | Ano em que a bolsa foi condedida                                    | Int                       |
+| CODIGO_EMEC_IES_BOLSA          | Código interno número da bolsa                                      | Int                       |
+| NOME_IES_BOLSA                 | Nome da faculdade concedente da bolsa                               | Text                      | 
+| TIPO_BOLSA                     | Informa se a bolsa é parcial ou integral                            | Text                      |
+| MODALIDADE_ENSINO_BOLSA        |                                       | Text                       |
+| NOME_CURSO_BOLSA               |                                | Text                      | 
+| NOME_TURNO_CURSO_BOLSA         |                                     | Text                       |
+| CPF_BENEFICIARIO_BOLSA         |                                       | Text                       |
+| SEXO_BENEFICIARIO_BOLSA        |                                | Text                      | 
+| RACA_BENEFICIARIO_BOLSA        |                                     | Text                       |
+| DT_NASCIMENTO_BENEFICIARIO     |                                       | Int                       |
+| BENEFICIARIO_DEFICIENTE_FISICO |                                | Text                      | 
+| REGIAO_BENEFICIARIO_BOLSA      |                                     | Text                       | 
+| SIGLA_UF_BENEFICIARIO_BOLSA    |                                       | Text                       |
+| MUNICIPIO_BENEFICIARIO_BOLSA   |                                | Text                      | 
+| IDADE                          |                                     | Int                       |
+
+
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
+
+# Referências
+
+- "https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019"
+- "http://portal.mec.gov.br/index.php?option=com_content&view=article&id=205&Itemid=298&msg=1&l=aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWJ1c2NhZ2VyYWwmSXRlbWlkPTE2NCZwYXJhbXNbc2VhcmNoX3JlbGV2YW5jZV09cHJvdW5pJmQ9cyZwYXJhbXNbZGVdPSZwYXJhbXNbYXRlXT0mcGFyYW1zW2NhdGlkXT0mcGFyYW1zW3NlYXJjaF9tZXRob2RdPWFsbCZwYXJhbXNbb3JkXT1wcg==#:~:text=O%20Programa%20Universidade%20para%20Todos,institui%C3%A7%C3%B5es%20privadas%20de%20educa%C3%A7%C3%A3o%20superior."
