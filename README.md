@@ -38,19 +38,19 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 |--------------------------------|---------------------------------------------------------------------|---------------------------|
 | ANO_CONCESSAO_BOLSA            | Ano em que a bolsa foi condedida                                    | Int                       |
 | CODIGO_EMEC_IES_BOLSA          | Código interno número da bolsa                                      | Int                       |
-| NOME_IES_BOLSA                 | Nome da faculdade concedente da bolsa                               | Text                      | 
-| TIPO_BOLSA                     | Informa se a bolsa é parcial ou integral                            | Text                      |
-| MODALIDADE_ENSINO_BOLSA        | Modalidade escolhida pelo bolsista se a distância ou Presencial     | Text                      |
-| NOME_CURSO_BOLSA               | Curso escolhido pelo bolsista                                       | Text                      | 
-| NOME_TURNO_CURSO_BOLSA         | Qual o turno escolhido pelo aluno                                   | Text                      |
-| CPF_BENEFICIARIO_BOLSA         | CPF criptografado do bolsista                                       | Text                      |
-| SEXO_BENEFICIARIO_BOLSA        | Sexo declarado do bolsista                                          | Text                      | 
-| RACA_BENEFICIARIO_BOLSA        | Raça declarada do bolsista                                          | Text                      |
-| DT_NASCIMENTO_BENEFICIARIO     | Data de nascimento do Bolsista                                      | Int                       |
-| BENEFICIARIO_DEFICIENTE_FISICO | Bolsista declara se é deficiente físico ou não                      | Text                      | 
-| REGIAO_BENEFICIARIO_BOLSA      | Região do Brasil onde a faculdade está localizada                   | Text                      | 
-| SIGLA_UF_BENEFICIARIO_BOLSA    | Estado do Brasil onde a faculdade está localizada                   | Text                      |
-| MUNICIPIO_BENEFICIARIO_BOLSA   | Município do Brasil onde a faculdade está localizada                | Text                      | 
+| NOME_IES_BOLSA                 | Nome da faculdade concedente da bolsa                               | String                    | 
+| TIPO_BOLSA                     | Informa se a bolsa é parcial ou integral                            | String                    |
+| MODALIDADE_ENSINO_BOLSA        | Modalidade escolhida pelo bolsista se a distância ou Presencial     | String                    |
+| NOME_CURSO_BOLSA               | Curso escolhido pelo bolsista                                       | String                    | 
+| NOME_TURNO_CURSO_BOLSA         | Qual o turno escolhido pelo aluno                                   | String                    |
+| CPF_BENEFICIARIO_BOLSA         | CPF criptografado do bolsista                                       | String                    |
+| SEXO_BENEFICIARIO_BOLSA        | Sexo declarado do bolsista                                          | String                    | 
+| RACA_BENEFICIARIO_BOLSA        | Raça declarada do bolsista                                          | String                    |
+| DT_NASCIMENTO_BENEFICIARIO     | Data de nascimento do Bolsista                                      | Varchar                   |
+| BENEFICIARIO_DEFICIENTE_FISICO | Bolsista declara se é deficiente físico ou não                      | String                    | 
+| REGIAO_BENEFICIARIO_BOLSA      | Região do Brasil onde a faculdade está localizada                   | String                    | 
+| SIGLA_UF_BENEFICIARIO_BOLSA    | Estado do Brasil onde a faculdade está localizada                   | String                    |
+| MUNICIPIO_BENEFICIARIO_BOLSA   | Município do Brasil onde a faculdade está localizada                | String                    | 
 | IDADE                          | Idade do bolsista                                                   | Int                       |
 
 
