@@ -20,6 +20,8 @@ O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Explor
 1. Quantos estudantes foram beneficiados com o programa durante este período?
 2. Qual q região com mais estudantes com a bolsa?
 3. Qual o curso mais escolhidos com bolsa total? e parcial?
+4. Qual a maior porcentagem de bolsas, Parcial ou Integral?
+5. Qual a modalidade mais escolhida, EAD ou Presencial?
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -38,18 +40,18 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 | CODIGO_EMEC_IES_BOLSA          | Código interno número da bolsa                                      | Int                       |
 | NOME_IES_BOLSA                 | Nome da faculdade concedente da bolsa                               | Text                      | 
 | TIPO_BOLSA                     | Informa se a bolsa é parcial ou integral                            | Text                      |
-| MODALIDADE_ENSINO_BOLSA        |                                       | Text                       |
-| NOME_CURSO_BOLSA               |                                | Text                      | 
-| NOME_TURNO_CURSO_BOLSA         |                                     | Text                       |
-| CPF_BENEFICIARIO_BOLSA         |                                       | Text                       |
-| SEXO_BENEFICIARIO_BOLSA        |                                | Text                      | 
-| RACA_BENEFICIARIO_BOLSA        |                                     | Text                       |
-| DT_NASCIMENTO_BENEFICIARIO     |                                       | Int                       |
-| BENEFICIARIO_DEFICIENTE_FISICO |                                | Text                      | 
-| REGIAO_BENEFICIARIO_BOLSA      |                                     | Text                       | 
-| SIGLA_UF_BENEFICIARIO_BOLSA    |                                       | Text                       |
-| MUNICIPIO_BENEFICIARIO_BOLSA   |                                | Text                      | 
-| IDADE                          |                                     | Int                       |
+| MODALIDADE_ENSINO_BOLSA        | Modalidade escolhida pelo bolsista se a distância ou Presencial     | Text                      |
+| NOME_CURSO_BOLSA               | Curso escolhido pelo bolsista                                       | Text                      | 
+| NOME_TURNO_CURSO_BOLSA         | Qual o turno escolhido pelo aluno                                   | Text                      |
+| CPF_BENEFICIARIO_BOLSA         | CPF criptografado do bolsista                                       | Text                      |
+| SEXO_BENEFICIARIO_BOLSA        | Sexo declarado do bolsista                                          | Text                      | 
+| RACA_BENEFICIARIO_BOLSA        | Raça declarada do bolsista                                          | Text                      |
+| DT_NASCIMENTO_BENEFICIARIO     | Data de nascimento do Bolsista                                      | Int                       |
+| BENEFICIARIO_DEFICIENTE_FISICO | Bolsista declara se é deficiente físico ou não                      | Text                      | 
+| REGIAO_BENEFICIARIO_BOLSA      | Região do Brasil onde a faculdade está localizada                   | Text                      | 
+| SIGLA_UF_BENEFICIARIO_BOLSA    | Estado do Brasil onde a faculdade está localizada                   | Text                      |
+| MUNICIPIO_BENEFICIARIO_BOLSA   | Município do Brasil onde a faculdade está localizada                | Text                      | 
+| IDADE                          | Idade do bolsista                                                   | Int                       |
 
 
 
