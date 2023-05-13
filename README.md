@@ -1,57 +1,22 @@
-# Título do Projeto
-Análise Exploratória PROUNI
+# Análise Exploratória PROUNI
 
-![Capa do Projeto](https://picsum.photos/850/280)
 
-# Sobre o Projeto
+![dataset-cover](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/fb4cacee-9406-4b75-8aad-e399ccd52be2)
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+# 1.Introdução
+
+O Programa Universidade para Todos (ProUni) foi criado em 2004, pela Lei nº 11.096/2005 já ajudou milhares de estudantes pelo Brasil a realizar o sonho de cursar uma faculdade, é um programa onde as faculdades particulares oferecem bolsas de estudos de 50% ou 100% do valor total. 
+Neste estudo irei explorar os dados do período de 2005 a 2019 obtidos através originalmente do site https://dados.gov.br/dataset/mec-prouni que está atualmente indisponível, mas foi adaptado do estudo https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019 , onde contém os principais dados necessários para os objetivos deste estudo.
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
 
-# Índice/Sumário
+# 1.1 Objetivos
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados do PROUNI no período de 2005-2019, adaptado pelo autor e disponível em https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019; a fim de caracterizar o perfil dos estudantes. Especificiamente serão respondidas as seguintes questões de pesquisa:
 
-
-# Requisitos Funcionais 
-
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
-
-# Tecnologias Usadas
-
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
-
-# Autores
-
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-# Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+1. Quantos estudantes foram beneficiados com o programa durante este período?
+2. Qual q região com mais estudantes com a bolsa?
+3. 
