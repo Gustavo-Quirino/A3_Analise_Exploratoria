@@ -10,7 +10,6 @@ Neste estudo irei explorar os dados do período de 2005 a 2019 obtidos através 
 
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
 </h4>
 
 # 1.1 Objetivos
@@ -24,7 +23,7 @@ O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Explor
 5. Qual a modalidade mais escolhida, EAD ou Presencial?
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+
 </h4>
 
 
