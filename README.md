@@ -76,10 +76,7 @@ Como os dados são todos nacionais não foi necessária nenhuma alteração para
 
 # 2.5 Feature Engineering
 
-A engenharia de recursos (Feature Engineering) é o processo de usar o conhecimento do domínio para extrair recursos dos dados brutos. Neste estudo serão acrescentadas as seguintes colunas para enriquecer a análise de dados:
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+A engenharia de recursos (Feature Engineering) é o processo de usar o conhecimento do domínio para extrair recursos dos dados brutos. Neste estudo não foi necessário criar novos valores.
 
 # 2.6 Tecnologias Usadas
 
