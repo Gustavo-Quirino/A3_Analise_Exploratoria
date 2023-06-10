@@ -70,6 +70,10 @@ Remoção de colunas incompletas e/ou desnecessárias para a análise.
 
 A Coluna Idade original foi retirada pois não fornecia a idade real  do estudante na data atual, e nem na data citada.
 
+## 2.3.2 Remoção de linhas
+
+Foram removidas 186 linhas de estudantes com informações incompletas.
+
 # 2.4 Mapeamento de dados
 
 Como os dados são todos nacionais não foi necessária nenhuma alteração para que a compreensão ficasse mais fácil.
