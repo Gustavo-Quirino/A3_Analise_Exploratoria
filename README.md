@@ -12,7 +12,7 @@ Neste estudo irei explorar os dados do período de 2005 a 2019 obtidos através 
 <h4 align="center"> 
 </h4>
 
-# 1.1 Objetivos
+# 2 Objetivos
 
 O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados do PROUNI no período de 2005-2019, adaptado pelo autor e disponível em https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019; a fim de caracterizar o perfil dos estudantes e quais os cursos mais escolhidos. Especificiamente serão respondidas as seguintes questões de pesquisa:
 
@@ -27,7 +27,7 @@ O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Explor
 </h4>
 
 
-# 2. Metodologia
+# 3. Metodologia
 
 Nesta seção será apresentado todo o processo de preparação, organização e limpeza de dados feito no dataset que possui os seguintes dados:
 
@@ -53,50 +53,47 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 | IDADE                          | Idade do bolsista                                                   | Int                       |
 
 
-# 2.1 Configuração do Ambiente
+# 3.1 Configuração do Ambiente
 
 Toda a configuração e desenvolvimento foi feita no power BI para a facilitar visualmente a apresentação desse trabalho e será presentada abaixo.
 
-# 2.2 Leitura dos Dados
+# 3.2 Leitura dos Dados
 
 Os dados vieram em formato CSV e lidos diretamente no power BI para a construção dos visuais apresentados. O arquivo na íntegra também está na pasta arquivo.
 
-# 2.3 Organização e Limpeza dos Dados
+# 3.3 Organização e Limpeza dos Dados
 
-<h2>
-2.3.1 Remoção de Colunas 
-</h2>
+
+## 3.3.1 Remoção de Colunas 
+
 Remoção de colunas incompletas e/ou desnecessárias para a análise.
 
 A Coluna Idade original foi retirada pois não fornecia a idade real  do estudante na data atual, e nem na data citada.
 
-## 2.3.2 Remoção de linhas
+## 3.3.2 Remoção de linhas
 
 Foram removidas 186 linhas de estudantes com informações incompletas.
 
-# 2.4 Mapeamento de dados
+# 3.4 Mapeamento de dados
 
 Como os dados são todos nacionais não foi necessária nenhuma alteração para que a compreensão ficasse mais fácil.
 
-# 2.5 Feature Engineering
+# 3.5 Feature Engineering
 
 A engenharia de recursos (Feature Engineering) é o processo de usar o conhecimento do domínio para extrair recursos dos dados brutos. Neste estudo não foi necessário criar novos valores.
 
-# 2.6 Tecnologias Usadas
+# 3.6 Tecnologias Usadas
 
 - Power BI
 
-# 3. Análise dos Dados
+# 4. Análise dos Dados
 
-## 3.1 Quantos estudantes foram beneficiados com o programa durante este período?
-## 3.2 Qual a região com mais estudantes com a bolsa?
-## 3.3 Qual o curso mais escolhidos com bolsa total? e parcial?
-## 3.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
-## 3.5 Qual a modalidade mais escolhida, EAD ou Presencial?
+## 4.1 Quantos estudantes foram beneficiados com o programa durante este período?
+## 4.2 Qual a região com mais estudantes com a bolsa?
+## 4.3 Qual o curso mais escolhidos com bolsa total? e parcial?
+## 4.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
+## 4.5 Qual a modalidade mais escolhida, EAD ou Presencial?
 
-# 4. Análise e Consolidação
-
-Explicar sobre as análises aqui.
 
 
 # 5. Conclusão
