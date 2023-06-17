@@ -5,7 +5,7 @@
 
 # 1. Introdução
 
-O Programa Universidade para Todos (ProUni) foi criado em 2004, pela Lei nº 11.096/2005 já ajudou milhares de estudantes pelo Brasil a realizar o sonho de cursar uma faculdade, é um programa onde as faculdades particulares oferecem bolsas de estudos de 50% ou 100% do valor total. 
+O Programa Universidade para Todos (ProUni) foi criado em 2004, pela Lei nº 11.096/2005 já ajudou milhares de estudantes pelo Brasil a realizar o sonho de cursar uma faculdade, é um programa onde as faculdades particulares oferecem bolsas de estudos de 25%, 50% ou 100% do valor total. 
 Neste estudo irei explorar os dados do período de 2005 a 2019 obtidos através originalmente do site https://dados.gov.br/dataset/mec-prouni que está atualmente indisponível, mas foi adaptado do estudo https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019 , onde contém os principais dados necessários para os objetivos deste estudo.
 
 
