@@ -94,7 +94,12 @@ A engenharia de recursos (Feature Engineering) é o processo de usar o conhecime
 ## 3.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
 ## 3.5 Qual a modalidade mais escolhida, EAD ou Presencial?
 
-# 4. Conclusão
+#4. Análise e Consolidação
+
+Explicar sobre as análises aqui.
+
+
+# 5. Conclusão
 
 Como demonstrado acima esse programa foi e ainda é essencial para que estudantes de todo o Brasil possam cursar a faculdade desejada ou uma formação incial para depois poder cursar o que deseja mas já tenha um salário digno e que possa pagar sem que atrapalhe financeiramente sua vida.
 Todas as regiões do Brasil são beneficiadas sem exceção e com certeza mudou a vida de todos que souberam e aproveitaram essa oportunidade, mesmo a maioria sendo de bolsas parciais.
