@@ -53,36 +53,36 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 | IDADE                          | Idade do bolsista                                                   | Int                       |
 
 
-# 3.1 Configuração do Ambiente
+## 3.1 Configuração do Ambiente
 
 Toda a configuração e desenvolvimento foi feita no power BI para a facilitar visualmente a apresentação desse trabalho e será presentada abaixo.
 
-# 3.2 Leitura dos Dados
+## 3.2 Leitura dos Dados
 
 Os dados vieram em formato CSV e lidos diretamente no power BI para a construção dos visuais apresentados. O arquivo na íntegra também está na pasta arquivo.
 
-# 3.3 Organização e Limpeza dos Dados
+## 3.3 Organização e Limpeza dos Dados
 
 
-## 3.3.1 Remoção de Colunas 
+### 3.3.1 Remoção de Colunas 
 
 Remoção de colunas incompletas e/ou desnecessárias para a análise.
 
 A Coluna Idade original foi retirada pois não fornecia a idade real  do estudante na data atual, e nem na data citada.
 
-## 3.3.2 Remoção de linhas
+### 3.3.2 Remoção de linhas
 
 Foram removidas 186 linhas de estudantes com informações incompletas.
 
-# 3.4 Mapeamento de dados
+## 3.4 Mapeamento de dados
 
 Como os dados são todos nacionais não foi necessária nenhuma alteração para que a compreensão ficasse mais fácil.
 
-# 3.5 Feature Engineering
+## 3.5 Feature Engineering
 
 A engenharia de recursos (Feature Engineering) é o processo de usar o conhecimento do domínio para extrair recursos dos dados brutos. Neste estudo não foi necessário criar novos valores.
 
-# 3.6 Tecnologias Usadas
+## 3.6 Tecnologias Usadas
 
 - Power BI
 
