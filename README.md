@@ -100,7 +100,7 @@ No período de 2015 a 2019 Dois Milhões quinhentos e oitenta mil e quarenta alu
 
 ![regiao](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/83fb4636-dad7-4f17-b2fa-06d875943f91)
 
-Teste
+A região que mais teve utilização de bolsas foi a região sudeste, apesar de não ser a maior região do Brasil é a região mais populada, isso explica ter mais bolsistas até que a soma das regiões Sul,Nordeste e Centro-Oeste. Porém, isso pode apontar também uma carência das faculdades que oferecem os programas nas demais regiões principamente na região Norte que é onde menos possui bolsistas.
 
 ## 4.3 Qual o curso mais escolhidos na modalidade presencial? e a distancia?
 
