@@ -81,11 +81,28 @@ A engenharia de recursos (Feature Engineering) é o processo de usar o conhecime
 # 4. Análise dos Dados
 
 ## 4.1 Quantos estudantes foram beneficiados com o programa durante este período?
+
+
+
 ## 4.2 Qual a região com mais estudantes com a bolsa?
+
+
+
 ## 4.3 Qual o curso mais escolhidos com bolsa total? e parcial?
+
+
+
+
+
 ## 4.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
+
+
+
 ## 4.5 Qual a modalidade mais escolhida, EAD ou Presencial?
 
+![Questao 5-1](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/c9b2352c-f939-4da3-813a-07a813a2957e)
+
+![Questao 5-2](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/5d0331af-e3d6-46f2-8d3d-677ef6437feb)
 
 
 # 5. Conclusão
