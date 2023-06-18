@@ -106,11 +106,11 @@ A região que mais teve utilização de bolsas foi a região sudeste, apesar de 
 
 ![Questao 5-1](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/c9b2352c-f939-4da3-813a-07a813a2957e)
 
-Teste
+Este foi o modelo que mais deixou evidente uma inconsistência de dados do arquivo, parecia ser um erro de leitura do arquivo devido aos acentos porém, durante as tentativas de ajuste percebi que o erro já era na verdade da digitação do próprio arquivo e não o power BI que estava gerando essas inconsistências. Um exemplo dissoé no curso de Administração, onde deveria aparecer com 243.116 estudantes, porém ele aparece como segundo curso mais buscado presencialmente pelos estudantes com 208.001 alunos inscritos e novamente na 13º posição dessa vez com o nome "AdministraAAo" com 35.116 estudantes. Isso também se aplica a outros cursos com acento no nome e descredibilizou um pouco este resultado. Mas os 10 Cursos mais buscados foram: Direito, Administração, Enfermagem, Pedagogia, Ciências Contábeis, Engenharia Civil, Psicologia, Educação Física, Fisioterapia e Gestão de Recursos Humanos.
 
 ![Questao 5-2](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/5d0331af-e3d6-46f2-8d3d-677ef6437feb)
 
-Teste
+No EAD além do mesmo problema encontrado e descrito no modelo presencial, tivemos também alguns cursos em que continha a nomenclatura EAD na frente do nome, esse foi editado e retirado por meio da ferramente de substituição do power BI e foi resolvido. No modelo a distância os 10 cursos mais buscados foram: Pedagogia, Administração, Gestão de Recursos Humanos, Serviço Social, Ciências Contábeis, Processos Gerenciais, História, Educação Física, Gestão Financeira e Matemática. A classificação foi baseada na soma das duas apresentações quando demonstrada no quadro como por exemplo Serviço Social que apesar de aparecer como quinto mais buscado visualmente na verdade com a soma das duas aparições na demonstração visual ficou como o terceiro mais procurado.
 
 ## 4.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
 
