@@ -7,6 +7,11 @@
 # Índice/Sumário
 
 * [Introdução](#1-introdução)
+* [Objetivos](#2-objetivos)
+* [Metodologia](#3-metodologia)
+* [Análise dos Dados](#4-análise-dos-dados)
+* [Conclusão](#4-análise-dos-dados)
+* [Referências](#4-análise-dos-dados)
 
 # 1. Introdução
 
