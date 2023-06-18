@@ -116,13 +116,13 @@ No EAD além do mesmo problema encontrado e descrito no modelo presencial, tivem
 
 ![tipo de bolsa](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/6205f905-26f5-4c1c-849a-f07ce8a8ef16)
 
-Teste
+As bolsas integrais com 100% do curso grátis foi o tipo mais oferecido, enquanto a bolsa complementar de 25% a com menos estudantes, isso mostra que as faculdades se preocuparam em oferecer a melhor bolsa para que os alunos conseguissem focar mais tempo nos estudos e quando conseguissem um estágio remunerado poder complementar a renda da casa.
 
 ## 4.5 Qual a modalidade mais escolhida, EAD ou Presencial?
 
 ![Modalidade](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/2445d5b9-9b39-4e98-b853-1e2f5bca0239)
 
-Teste
+Como no período análisado não tinhamos tanto costume e nem sonhavamos com a pandemia e todas as mudanças que ela gerou, a modalidade mais escolhida pelos alunos e provavelmente a com mais vagas ofertadas pelas faculdades era o modelo presencial, acredito que durante o perído de 2020 a 2022 os números devem estar com uma porcentagem bastante alta também nos cursos a distância.
 
 
 # 5. Conclusão
