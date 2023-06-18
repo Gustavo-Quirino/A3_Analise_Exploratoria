@@ -9,6 +9,7 @@
 * [Introdução](#1-introdução)
 * [Objetivos](#2-objetivos)
 * [Metodologia](#3-metodologia)
+* [teste](#31-configuração-do-ambiente)
 * [Análise dos Dados](#4-análise-dos-dados)
 * [Conclusão](#5-conclusão)
 * [Referências](#referências)
