@@ -86,7 +86,7 @@ A engenharia de recursos (Feature Engineering) é o processo de usar o conhecime
 
 ## 4.2 Qual a região com mais estudantes com a bolsa?
 
-
+![regiao](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/83fb4636-dad7-4f17-b2fa-06d875943f91)
 
 ## 4.3 Qual o curso mais escolhidos na modalidade presencial? e a distancia?
 
@@ -96,11 +96,11 @@ A engenharia de recursos (Feature Engineering) é o processo de usar o conhecime
 
 ## 4.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
 
-
+![tipo de bolsa](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/6205f905-26f5-4c1c-849a-f07ce8a8ef16)
 
 ## 4.5 Qual a modalidade mais escolhida, EAD ou Presencial?
 
-
+![Modalidade](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/2445d5b9-9b39-4e98-b853-1e2f5bca0239)
 
 
 # 5. Conclusão
