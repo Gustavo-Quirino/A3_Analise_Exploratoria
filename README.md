@@ -104,9 +104,5 @@ Eu imagino que devido a pandemia e demais fatores se os dados fossem atualizados
 
 # Referências
 
-- "https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019"
-- "http://portal.mec.gov.br/index.php?option=com_content&view=article&id=205&Itemid=298&msg=1&l=aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWJ1c2NhZ2VyYWwmSXRlbWlkPTE2NCZwYXJhbXNbc2VhcmNoX3JlbGV2YW5jZV09cHJvdW5pJmQ9cyZwYXJhbXNbZGVdPSZwYXJhbXNbYXRlXT0mcGFyYW1zW2NhdGlkXT0mcGFyYW1zW3NlYXJjaF9tZXRob2RdPWFsbCZwYXJhbXNbb3JkXT1wcg==#:~:text=O%20Programa%20Universidade%20para%20Todos,institui%C3%A7%C3%B5es%20privadas%20de%20educa%C3%A7%C3%A3o%20superior."
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+- Brasil Students Scholarship - Prouni - (2005-2019). Disponível em: <https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019>. Acesso em: 18 jun. 2023.
+- ProUni - Apresentação. Disponível em: <http://portal.mec.gov.br/prouni-sp-1364717183/apresentacao>. Acesso em: 18 jun. 2023.
