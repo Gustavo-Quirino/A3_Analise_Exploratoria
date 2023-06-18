@@ -128,8 +128,9 @@ Teste
 # 5. Conclusão
 
 Como demonstrado acima esse programa foi e ainda é essencial para que estudantes de todo o Brasil possam cursar a faculdade desejada ou uma formação incial para depois poder cursar o que deseja mas já tenha um salário digno e que possa pagar sem que atrapalhe financeiramente sua vida.
-Todas as regiões do Brasil são beneficiadas sem exceção e com certeza mudou a vida de todos que souberam e aproveitaram essa oportunidade, mesmo a maioria sendo de bolsas parciais.
-Eu imagino que devido a pandemia e demais fatores se os dados fossem atualizados para o dia de hoje a maior mudança seria em relação a modalidade escolhida já que nessa análise o presencial era o mais escolhido.
+Todas as regiões do Brasil são beneficiadas sem exceção e com certeza mudou a vida de todos que aproveitaram essa oportunidade, como demonstrado a maioria das bolsas que foram cedidas são bolsas totais com 100% de isenção de pagamento para realizar o curso, senti falta de uma coluna de finalização do curso para termos a noção de quantas pessoas conseguiram concluir a formação e ter sua vida transformada pelo programa.
+Devido a pandemia e demais fatores se os dados fossem atualizados até 2022 a maior mudança seria que teriamos, acredito que seria em relação a porcentagem da modalidade escolhida já que nessa análise o presencial era o mais escolhido.
+
 
 # Referências
 
