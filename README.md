@@ -9,9 +9,6 @@ O Programa Universidade para Todos (ProUni) foi criado em 2004, pela Lei nº 11.
 Neste estudo irei explorar os dados do período de 2005 a 2019 obtidos através originalmente do site https://dados.gov.br/dataset/mec-prouni que está atualmente indisponível, mas foi adaptado do estudo https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019 , onde contém os principais dados necessários para os objetivos deste estudo.
 
 
-<h4 align="center"> 
-</h4>
-
 # 2. Objetivos
 
 O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Exploratory Data Analysis - EDA) do conjunto de dados do PROUNI no período de 2005-2019, adaptado pelo autor e disponível em https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019; a fim de caracterizar o perfil dos estudantes e quais os cursos mais escolhidos. Especificiamente serão respondidas as seguintes questões de pesquisa:
@@ -21,10 +18,6 @@ O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Explor
 3. Qual o curso mais escolhidos com bolsa total? e parcial?
 4. Qual a maior porcentagem de bolsas, Parcial ou Integral?
 5. Qual a modalidade mais escolhida, EAD ou Presencial?
-
-<h4 align="center"> 
-
-</h4>
 
 
 # 3. Metodologia
@@ -63,14 +56,13 @@ Os dados vieram em formato CSV e lidos diretamente no power BI para a construç�
 
 ## 3.3 Organização e Limpeza dos Dados
 
-
-### 3.3.1 Remoção de Colunas 
+## 3.3.1 Remoção de Colunas 
 
 Remoção de colunas incompletas e/ou desnecessárias para a análise.
 
 A Coluna Idade original foi retirada pois não fornecia a idade real  do estudante na data atual, e nem na data citada.
 
-### 3.3.2 Remoção de linhas
+## 3.3.2 Remoção de linhas
 
 Foram removidas 186 linhas de estudantes com informações incompletas.
 
