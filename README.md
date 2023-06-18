@@ -48,23 +48,21 @@ Nesta seção será apresentado todo o processo de preparação, organização e
 
 ## 3.1 Configuração do Ambiente
 
-Toda a configuração e desenvolvimento foi feita no power BI para a facilitar visualmente a apresentação desse trabalho e será presentada abaixo.
+Toda a configuração e desenvolvimento foi feita no power BI para a facilitar visualmente a apresentação desse trabalho e será apresentada abaixo.
 
 ## 3.2 Leitura dos Dados
 
-Os dados vieram em formato CSV e lidos diretamente no power BI para a construção dos visuais apresentados. O arquivo na íntegra também está na pasta arquivo.
+Os dados vieram em formato CSV e lidos diretamente no power BI para a construção dos visuais apresentados.
 
 ## 3.3 Organização e Limpeza dos Dados
 
 ## 3.3.1 Remoção de Colunas 
 
-Remoção de colunas incompletas e/ou desnecessárias para a análise.
-
-A Coluna Idade original foi retirada pois não fornecia a idade real  do estudante na data atual, e nem na data citada.
+A remoção de colunas não foi necessária para este estudo, todas se complementavam e contribuiram para o estudo como um todo.
 
 ## 3.3.2 Remoção de linhas
 
-Foram removidas 186 linhas de estudantes com informações incompletas.
+Foram desconsideradas 186 linhas de estudantes com informações incompletas, em alguns estudos demonstrados, para a contagem total de alunos que receberam as bolsas eles foram mantidos na contagem.
 
 ## 3.4 Mapeamento de dados
 
@@ -96,7 +94,7 @@ in
 
 ![Questao 1](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/cf7377ee-3870-4acd-ba09-fc7f1a660ec2)
 
-No período de 2015 a 2019 Dois Milhões quinhentos e oitenta mil e quarenta alunos foram beneficiados dos quais eu fiz parte desse múmero por isso decidi pesquisar dados sobre esse tema, porém dentro desse número existem  
+No período de 2015 a 2019 Dois Milhões quinhentos e oitenta mil e quarenta alunos foram beneficiados dos quais eu fiz parte desse múmero por isso decidi pesquisar dados sobre esse tema, porém dentro desse número existem 4.375 alunos em que o curso não está preechido e dentro desse número 186 alunos com os quais muitos dados estão em branco, para este número não foram desconsiderados porém, para as demais análises foram retirados já que tinham informações importantes para os dados apresentados.
 
 ## 4.2 Qual a região com mais estudantes com a bolsa?
 
