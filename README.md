@@ -104,5 +104,5 @@ Eu imagino que devido a pandemia e demais fatores se os dados fossem atualizados
 
 # Referências
 
-- Brasil Students Scholarship - Prouni - (2005-2019). Disponível em: <https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019>. Acesso em: 18 jun. 2023.
-- ProUni - Apresentação. Disponível em: <http://portal.mec.gov.br/prouni-sp-1364717183/apresentacao>. Acesso em: 18 jun. 2023.
+- Brasil Students Scholarship - Prouni - (2005-2019). (2022) Disponível em: <https://www.kaggle.com/datasets/lfarhat/brasil-students-scholarship-prouni-20052019>. Acesso em: 18 jun. 2023.
+- ProUni - Apresentação. (2018) Disponível em: <http://portal.mec.gov.br/prouni-sp-1364717183/apresentacao>. Acesso em: 18 jun. 2023.
