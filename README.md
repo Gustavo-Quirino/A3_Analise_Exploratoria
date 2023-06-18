@@ -98,6 +98,10 @@ in
 
 - Power BI
 
+## 3.7 Link para a apresentação do Power BI utilizada para gerar os dados
+
+- https://app.powerbi.com/view?r=eyJrIjoiODg4ZmJmNzEtN2I0My00M2RiLWI0MzItODk1ZmM3ZWM3ZjUzIiwidCI6ImZhMWFmZmE2LTQ4MTItNDAyMS1iZjBhLTg5NWM1YzczMmUzYyJ9&pageName=ReportSectioneee3f4620ace089d70d7
+
 # 4. Análise dos Dados
 
 ## 4.1 Quantos estudantes foram beneficiados com o programa durante este período?
