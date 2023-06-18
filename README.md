@@ -16,7 +16,7 @@ O objetivo deste estudo é realizar uma Análise Exploratória dos Dados (Explor
 1. Quantos estudantes foram beneficiados com o programa durante este período?
 2. Qual a região com mais estudantes com a bolsa?
 3. Qual o curso mais escolhidos na modalidade presencial? e a distancia?
-4. Qual a maior porcentagem de bolsas, Parcial ou Integral?
+4. Qual o tipo de bolsa mais oferecida, Parcial ou Integral?
 5. Qual a modalidade mais escolhida, EAD ou Presencial?
 
 
@@ -112,7 +112,7 @@ Este foi o modelo que mais deixou evidente uma inconsistência de dados do arqui
 
 No EAD além do mesmo problema encontrado e descrito no modelo presencial, tivemos também alguns cursos em que continha a nomenclatura EAD na frente do nome, esse foi editado e retirado por meio da ferramente de substituição do power BI e foi resolvido. No modelo a distância os 10 cursos mais buscados foram: Pedagogia, Administração, Gestão de Recursos Humanos, Serviço Social, Ciências Contábeis, Processos Gerenciais, História, Educação Física, Gestão Financeira e Matemática. A classificação foi baseada na soma das duas apresentações quando demonstrada no quadro como por exemplo Serviço Social que apesar de aparecer como quinto mais buscado visualmente na verdade com a soma das duas aparições na demonstração visual ficou como o terceiro mais procurado.
 
-## 4.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
+## 4.4 Qual o tipo de bolsa mais oferecida, Parcial ou Integral?
 
 ![tipo de bolsa](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/6205f905-26f5-4c1c-849a-f07ce8a8ef16)
 
