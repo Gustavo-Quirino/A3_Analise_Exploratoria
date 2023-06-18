@@ -72,8 +72,20 @@ Como os dados são todos nacionais não foi necessária nenhuma alteração para
 
 ## 3.5 Feature Engineering
 
-A engenharia de recursos (Feature Engineering) é o processo de usar o conhecimento do domínio para extrair recursos dos dados brutos. Neste estudo não foi necessário criar novos valores.
+A engenharia de recursos (Feature Engineering) é o processo de usar o conhecimento do domínio para extrair recursos dos dados brutos. Neste estudo criei uma função de correção para acentos, visto que trocar para Unicode UFT-8 não atingi o objetivo de correção, e mesmo com a criação dessa função demonstrada abaixo a correção não foi possível, já que o erro era direto na escrita do CSV e não os acentos que estavam gerando o erro de formatação, mas mesmo assim foram mantidas as configurações e ações tomadas para tentativa de correção.
 
+```
+(texto as text) =>
+let
+    ComAcentos = Text.ToList("àáâãäèéêëìíîïòóôõöùúûüÀÁÂÃÄÈÉÊËÌÍÎÒÓÔÕÖÙÚÛÜçÇñÑ"),
+    SemAcentos = Text.ToList("aaaaaeeeeiiiiooooouuuuAAAAAEEEEIIIOOOOOUUUUcCnN"),
+    ParesAcentos = List.Zip({ComAcentos, SemAcentos}),
+    TextoQuebrado = Text.ToList(texto),
+    Substituicao = List.ReplaceMatchingItems(TextoQuebrado, ParesAcentos),
+    Resultado = Text.Combine(Substituicao)
+in
+    Resultado
+```
 ## 3.6 Tecnologias Usadas
 
 - Power BI
@@ -84,23 +96,35 @@ A engenharia de recursos (Feature Engineering) é o processo de usar o conhecime
 
 ![Questao 1](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/cf7377ee-3870-4acd-ba09-fc7f1a660ec2)
 
+No período de 2015 a 2019 Dois Milhões quinhentos e oitenta mil e quarenta alunos foram beneficiados dos quais eu fiz parte desse múmero por isso decidi pesquisar dados sobre esse tema, porém dentro desse número existem  
+
 ## 4.2 Qual a região com mais estudantes com a bolsa?
 
 ![regiao](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/83fb4636-dad7-4f17-b2fa-06d875943f91)
+
+Teste
 
 ## 4.3 Qual o curso mais escolhidos na modalidade presencial? e a distancia?
 
 ![Questao 5-1](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/c9b2352c-f939-4da3-813a-07a813a2957e)
 
+Teste
+
 ![Questao 5-2](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/5d0331af-e3d6-46f2-8d3d-677ef6437feb)
+
+Teste
 
 ## 4.4 Qual a maior porcentagem de bolsas, Parcial ou Integral?
 
 ![tipo de bolsa](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/6205f905-26f5-4c1c-849a-f07ce8a8ef16)
 
+Teste
+
 ## 4.5 Qual a modalidade mais escolhida, EAD ou Presencial?
 
 ![Modalidade](https://github.com/Gustavo-Quirino/A3_Analise_Exploratoria/assets/74928403/2445d5b9-9b39-4e98-b853-1e2f5bca0239)
+
+Teste
 
 
 # 5. Conclusão
